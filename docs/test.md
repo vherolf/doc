@@ -1,6 +1,6 @@
 ipsum lorem
 
-![Alt text](videos/blue1.mp4)
+[video](videos/blue1.mp4)
 
 
 ![Image with title](videos/image.png "Image title")
